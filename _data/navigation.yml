@@ -9,7 +9,7 @@ main:
 
 category_sidebar:
   - title: test1
-    url: www.google.com
+    url: /categories/test1/
   - title: test2
-    url: www.naver.com
+    url: /categories/test2/
 
