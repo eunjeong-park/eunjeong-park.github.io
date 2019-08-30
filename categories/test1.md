@@ -5,4 +5,4 @@ permalink: /categories/test1/
 taxonomy: test1
 ---
 
-Sample post listing for the category `Edge Case`.
+Sample post listing for the category `test1`.
