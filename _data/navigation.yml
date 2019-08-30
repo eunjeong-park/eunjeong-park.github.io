@@ -1,20 +1,18 @@
 # main links
 main:
-  - title: "Home"
+  - title: "Posts"
     url: /
-  - title: "Category"
-    url: /categories/
-  - title: "Archive"
-    url: /year-archive/
-  - title: "Tags"
-    url: /tags/
 
 category_sidebar:
   - title: Programming
     children:
       - title: Java
-        url: /categories/testcategory
-  - title:
-    children:
+        url: /categories/java
+      - title: JavaScript
+        url: /categories/javascript
+      - title: Data Structure
+        url: /categories/data-structure
+  - title: Posts by Tag
+    url: /tags/
 
 
