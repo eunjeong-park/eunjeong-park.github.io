@@ -1,7 +1,7 @@
 ---
 title: test1title
 layout: category
-permalink: /categories/#test1/
+permalink: /categories/test1/
 taxonomy: test1
 ---
 
