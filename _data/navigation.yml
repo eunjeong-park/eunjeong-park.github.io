@@ -14,5 +14,7 @@ category_sidebar:
         url: /categories/data-structure
   - title: Posts by Tag
     url: /tags/
+  - title: Posts by Year
+    url: /year-archive/
 
 
