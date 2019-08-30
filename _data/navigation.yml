@@ -2,14 +2,19 @@
 main:
   - title: "Home"
     url: /
+  - title: "Category"
+    url: /categories/
   - title: "Archive"
     url: /year-archive/
   - title: "Tags"
     url: /tags/
 
 category_sidebar:
-  - title: test1
-    url: /categories/#test1/
-  - title: test2
-    url: /categories/#test2/
+  - title: Programming
+    children:
+      - title: Java
+        url: /categories/testcategory
+  - title:
+    children:
+
 
