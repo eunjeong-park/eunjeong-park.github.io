@@ -7,11 +7,13 @@ category_sidebar:
   - title: Programming
     children:
       - title: Java
-        url: /categories/java
+        url: /categories/java/
       - title: JavaScript
-        url: /categories/javascript
+        url: /categories/javascript/
       - title: Data Structure
-        url: /categories/data-structure
+        url: /categories/data-structure/
+      - title: Design Pattern
+        url: /categories/design-pattern/
   - title: Archive
     children:
       - title: Posts by Tag
