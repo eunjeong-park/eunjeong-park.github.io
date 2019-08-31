@@ -2,5 +2,5 @@
 title: "Boost Course"
 permalink: /categories/boost-course/
 layout: category
-taxonomy: Boost Course
+taxonomy: BoostCourse
 ---
