@@ -14,6 +14,8 @@ category_sidebar:
         url: /categories/data-structure/
       - title: Design Pattern
         url: /categories/design-pattern/
+      - title: Boost Course
+        url: /categories/boost-course/
   - title: Archive
     children:
       - title: Posts by Tag
