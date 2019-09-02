@@ -262,6 +262,7 @@ defaults:
       comments: # true
       share: false
       related: true
+      classes: wide
       sidebar:
         nav: "category_sidebar"
   # _pages
@@ -271,5 +272,6 @@ defaults:
     values:
       author_profile: false
       read_time: false
+      classes: wide
       sidebar:
         nav: "category_sidebar"
